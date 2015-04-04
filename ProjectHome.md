@@ -1,0 +1,1 @@
+A Python implementation of a Merkle Hash Tree.  This implementation uses a dictionary for storing the tree, but the access method can be overloaded for persistent implementations.
